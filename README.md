@@ -4,7 +4,9 @@ This is a game based on the popular Space Invaders game that uses the **pygame**
 ## Features Added
 * Background music and effect music for collisions
 
-
+## Pygame GUI
+![Playing the game](images/spaceGUI.png)
+![Game Over](images/spaceGameOver.png)
 
 ### Credits for images/icons
 <a href="https://www.freepik.com/vectors/background">Background vector created by freepik - www.freepik.com</a>
