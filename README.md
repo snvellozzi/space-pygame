@@ -4,6 +4,11 @@ This is a game that is based on the popular Space Invaders game and uses the **p
 ## Features Added
 * Background music and effect music for collisions
 
+## How to Play
+* Use the right and left arrow keys to move the spaceship and the space bar to shoot the bullet at the enemies.
+* **Play at repl.it/@snvellozzi/space-game**
+
+
 ## Pygame GUI
 ![Playing the game](images/spaceGUI.png)
 ![Game Over](images/spaceGameOver.png)
