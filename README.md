@@ -5,7 +5,8 @@ This is a game that is based on the popular Space Invaders game and uses the **p
 * Background music and effect music for collisions
 
 ## How to Play
-* Use the right and left arrow keys to move the spaceship and the space bar to shoot the bullet at the enemies.
+* Use the right and left arrow keys to move the spaceship
+* Use the space bar to shoot bullets at the enemies
 * <a href="https://repl.it/@snvellozzi/space-game" title="Play Here">Play Here</a>
 
 
