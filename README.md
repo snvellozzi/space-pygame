@@ -7,7 +7,7 @@ This is a game that is based on the popular Space Invaders game and uses the **p
 ## How to Play
 * Use the right and left arrow keys to move the spaceship
 * Use the space bar to shoot bullets at the enemies
-* <a href="https://repl.it/@snvellozzi/space-game" title="Play Here">Play Here</a>
+* <a href="https://repl.it/@snvellozzi/space-game" title="Play Here">Play Here</a> and run the game!
 
 
 ## Pygame GUI
